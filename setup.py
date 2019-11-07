@@ -5,8 +5,8 @@ from setuptools import setup, find_packages
 
 
 install_requires = [
-    'ecdsa>=0.10',
-    'six==1.12',
+    'ecdsa==0.13.3',
+    'six>=1.5.2',
     'websocket-client==0.14.0'
 ]
 
